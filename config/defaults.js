@@ -50,7 +50,6 @@ define({
   "legend": true,
   "legendOpen": false,
   "scalebar": true,
-  "markerSymbolColour": black,
   "markerSymbolWidth": 26,
   "markerSymbolHeight": 26,
   //When true the geocoder search box is displayed in the title area
