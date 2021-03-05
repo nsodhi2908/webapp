@@ -50,7 +50,7 @@ define({
   "legend": true,
   "legendOpen": false,
   "scalebar": true,
-  "markerSymbol": "./images/EsriBluePinCircle26.png",
+  "markerSymbolColour": black,
   "markerSymbolWidth": 26,
   "markerSymbolHeight": 26,
   //When true the geocoder search box is displayed in the title area
