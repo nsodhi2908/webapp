@@ -30,7 +30,7 @@ define({
   // hosted version of the application can apply custom styles
   // not used in the download version.
   "customstyle": null,
-  "background": "#444",
+  "background": "black",
   "color": "#fff",
   "legendTitleBackground": "#767676",
   "subtitleColor": "#CECECE",
