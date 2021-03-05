@@ -30,7 +30,7 @@ define({
   // hosted version of the application can apply custom styles
   // not used in the download version.
   "customstyle": null,
-  "background": "black",
+  "background": "#444",
   "color": "#fff",
   "legendTitleBackground": "#767676",
   "subtitleColor": "#CECECE",
@@ -50,6 +50,7 @@ define({
   "legend": true,
   "legendOpen": false,
   "scalebar": true,
+  "markerSymbol": "./images/EsriBluePinCircle26.png",
   "markerSymbolWidth": 26,
   "markerSymbolHeight": 26,
   //When true the geocoder search box is displayed in the title area
